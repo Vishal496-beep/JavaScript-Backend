@@ -22,3 +22,5 @@ git push -u origin main
 (err, req, res, next) next jb bhi use kia h iska matlb h ki middleware ki baat hori h
 # we use app.get app.post  but  app.use we are going to use when we want to configure or for middlewares
 # higher order functions are jo function as a parameter b accept krte h or as a function bhi
+
+# arrow fnction kbhi bhi this use nhi krta user.model mei isliye hmesha function use krns chhahiye
